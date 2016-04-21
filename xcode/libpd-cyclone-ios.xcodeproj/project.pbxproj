@@ -1407,6 +1407,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SKIP_INSTALL = YES;
 				USER_HEADER_SEARCH_PATHS = "../deps/libpd/pure-data/src ../deps/cyclone-0.1-alpha55/shared ../deps/cyclone-0.1-alpha55/cyclone";
 			};
 			name = Debug;
@@ -1445,6 +1446,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				SKIP_INSTALL = YES;
 				USER_HEADER_SEARCH_PATHS = "../deps/libpd/pure-data/src ../deps/cyclone-0.1-alpha55/shared ../deps/cyclone-0.1-alpha55/cyclone";
 			};
 			name = Release;
